@@ -10,9 +10,9 @@ notable features:
 - no follow points  (^)
 - no combo or health bar (^)
 - loud(ish) hitsounds (^)
-- minimalistic ui from wintherest(https://osu.ppy.sh/community/forums/topics/1498493?n=1)
+- minimalistic ui from [wintherest](https://osu.ppy.sh/community/forums/topics/1498493?n=1)
 - 1st place overlay on the bottom right to keep nerves down in multi
-![](https://media.discordapp.net/attachments/1305835043146694669/1305835108665659452/screenshot122.jpg?ex=67347937&is=673327b7&hm=ca1e10c039deecb924a164c2ede44f71a510220ded8aa10db976837942281faf&=&format=webp&width=2499&height=1405)
+![](https://media.discordapp.net/attachments/1305835043146694669/1305835108258807818/screenshot121.jpg?ex=675768f7&is=67561777&hm=988bbc176e8262c4084d1aee01a9a0e612c927cac5469a514d75eede49beb43a&=&format=webp&width=2497&height=1405)
 
 ## [GN edit, no instafade](https://drive.google.com/file/d/1egwi0AX1ZUlb2Yz7dw1UuB1qVs-BkJ69/view?usp=sharing)
 i use this for EZ and low AR hidden
