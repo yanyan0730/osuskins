@@ -30,23 +30,23 @@ notable features:
 
 
 
-# OLD SKINS (i'll add images later)
+# OLD SKINS
 
 2021-22
 ## [xyyuii v2 (vaxei+ruka)](https://www.mediafire.com/file/98zb7dh4p23rv51/-+++++++++#+xyyuii.+(v2)+『vaxei+ruka』+#+++++++++-.osk/file)
 main skin for most stuff, pretty much vaxei's 2020 return skin + the gris ui made by komori edited a bit
-![](https://cdn.discordapp.com/attachments/366636249240567808/754868676003365016/screenshot751.jpg)
+![](https://i.imgur.com/M0xHgRX.png)
 
 ## [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 used for aim/tech
-![](https://camo.githubusercontent.com/afb6308c11b0c1c1f2a8150d3bc763f6e860af0c107793cbd4bde6afe2e67ef8/68747470733a2f2f6f73752e7070792e73682f73732f31333438383938392f61373661)
+![](https://i.imgur.com/aKZt7Cf.png)
 
 ## [dracula (funorange)](https://joofixd.s-ul.eu/2JwFiizy)
 doubletime skin
-![](https://camo.githubusercontent.com/cceb3ff67303ac88d47302018dbf6cd4401f8a1f89c62f628969f1ed9219c45c/68747470733a2f2f6f73752e7070792e73682f73732f31333432313934342f64613964)
+![](https://i.imgur.com/jKoRCOA.png)
 
 
 late 2020
 ## [xyyuii v1 (anime free)](https://www.mediafire.com/file/ttwydv63magyi6t/xyyuii+v1.osk/file)
 skin for everything, basically idke's skin
-![](https://cdn.discordapp.com/attachments/366636249240567808/709385853054615572/screenshot126.png)
+![](https://i.imgur.com/F7IqM4d.png)
