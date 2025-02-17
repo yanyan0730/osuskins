@@ -1,7 +1,7 @@
 # yanyan's osu! skins
 ### here are a list of skins that I mainly use (or have used) on osu! some of these are edits/mashups of other skins, while others are just the original skin.
 
-2024 (this is already outdated lmao)
+2024 (this is already outdated lmao, I'll update it when i have time when I'm free from my studies)
 ## [kablaze/ristel edit (instafade)](https://drive.google.com/file/d/1ieKruSe1g0FimXSGMkf3GG5JxWtisRiF/view?usp=sharing)
 this is my main skin for pretty much everything! for me personally, it works well with almost everything that i play, so i use this skin the most :D
 ![](https://i.imgur.com/KKvvRxl.png)
