@@ -1,25 +1,13 @@
 # yanyan's osu! skins
 ### here are a list of skins that I mainly use (or have used) on osu! some of these are edits/mashups of other skins, while others are just the original skin.
 
-2024
+2024 (this is already outdated lmao)
 ## [kablaze/ristel edit (instafade)](https://drive.google.com/file/d/1ieKruSe1g0FimXSGMkf3GG5JxWtisRiF/view?usp=sharing)
 this is my main skin for pretty much everything! for me personally, it works well with almost everything that i play, so i use this skin the most :D
-
-notable features:
-- cool green cursor (additional styles of green cursors in folder)
-- instafade circles (i am INCAPABLE of playing without this, due to my natural focusing issue)
-- no follow points  (^)
-- no combo or health bar (^)
-- loud(ish) hitsounds (^)
-- minimalistic ui from [wintherest](https://osu.ppy.sh/community/forums/topics/1498493?n=1)
-- 1st place overlay on the bottom right to keep nerves down in multi
 ![](https://i.imgur.com/KKvvRxl.png)
 
 ## [GN edit, no instafade](https://drive.google.com/file/d/1egwi0AX1ZUlb2Yz7dw1UuB1qVs-BkJ69/view?usp=sharing)
 i use this for EZ and low AR hidden
-
-notable features:
-- pretty much the same features as my main skin
 ![](https://i.imgur.com/Tw3p82E.jpeg)
 
 
