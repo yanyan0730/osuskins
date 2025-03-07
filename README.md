@@ -2,16 +2,18 @@
 ### here are a list of skins that I mainly use (or have used) on osu! some of these are edits/mashups of other skins, while others are just the original skin.
 
 2024 (this is already outdated lmao, I'll update it when i have time when I'm free from my studies)
-## [kablaze/ristel edit (instafade)](https://drive.google.com/file/d/1ieKruSe1g0FimXSGMkf3GG5JxWtisRiF/view?usp=sharing)
-this is my main skin for pretty much everything! for me personally, it works well with almost everything that i play, so i use this skin the most :D
-![](https://i.imgur.com/KKvvRxl.png)
+
+
+## [yanyan v4 (instafade)](https://drive.google.com/file/d/1dIGHHj04Wd3J-ppBd7P-_gkhIcodd404/view?usp=sharing)
+![](https://i.imgur.com/IBaa0hS.png)
 
 ## [GN edit, no instafade](https://drive.google.com/file/d/1egwi0AX1ZUlb2Yz7dw1UuB1qVs-BkJ69/view?usp=sharing)
 i use this for EZ and low AR hidden
 ![](https://i.imgur.com/Tw3p82E.jpeg)
 
-
-
+## [kablaze/ristel edit (instafade)](https://drive.google.com/file/d/1ieKruSe1g0FimXSGMkf3GG5JxWtisRiF/view?usp=sharing)
+framework gameplay for my main skin
+![](https://i.imgur.com/KKvvRxl.png)
 
 
 
