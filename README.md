@@ -1,7 +1,7 @@
 # yanyan's osu! skins
 ### here are a list of skins that I mainly use (or have used) on osu! some of these are edits/mashups of other skins, while others are just the original skin.
 
-2024 (this is already outdated lmao, I'll update it when i have time when I'm free from my studies)
+2024 (updated, 3/7/25)
 
 
 ## [yanyan v4 (instafade)](https://drive.google.com/file/d/1dIGHHj04Wd3J-ppBd7P-_gkhIcodd404/view?usp=sharing)
