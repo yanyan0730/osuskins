@@ -1,5 +1,5 @@
 # yanyan's osu! skins
-### here are a list of skins that I mainly use (or have used) on osu! some of these are edits/mashups of other skins, while others are just the original skin.
+### i did not make the elements of these skins ! 
 
 2024 (updated, 3/7/25)
 
