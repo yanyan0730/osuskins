@@ -1,13 +1,7 @@
-# yanyan's osu! skins
+# yanyan's OLD osu! skins
 ### i did not make any of the elements in these skins ! 
 
-current (updated, 3/7/25)
-
-
-## [yanyan v4 (instafade)](https://drive.google.com/file/d/1dIGHHj04Wd3J-ppBd7P-_gkhIcodd404/view?usp=sharing)
-i use this for everything ! (other than ez) 
-![](https://i.imgur.com/IBaa0hS.png)
-
+2024
 ## [GN edit, no instafade](https://drive.google.com/file/d/1egwi0AX1ZUlb2Yz7dw1UuB1qVs-BkJ69/view?usp=sharing)
 ez skin 
 ![](https://i.imgur.com/Tw3p82E.jpeg)
@@ -15,13 +9,6 @@ ez skin
 ## [kablaze/ristel edit (instafade)](https://drive.google.com/file/d/1ieKruSe1g0FimXSGMkf3GG5JxWtisRiF/view?usp=sharing)
 framework gameplay for my main skin
 ![](https://i.imgur.com/KKvvRxl.png)
-
-
-
-
-
-
-# OLD SKINS
 
 2021-22
 ## [xyyuii v2 (vaxei+ruka)](https://www.mediafire.com/file/98zb7dh4p23rv51/-+++++++++#+xyyuii.+(v2)+『vaxei+ruka』+#+++++++++-.osk/file)
